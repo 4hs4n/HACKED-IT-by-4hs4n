@@ -9,7 +9,7 @@ there are many vuln site . try it [ for fun]
 3. pip2 install requests
 4. pkg install git
 5. git clone https://github.com/4hs4n/HACKED-IT-by-4hs4n.git
-6. cd Massdav
+6. cd HACKED-IT-by-4hs4n
 7. python2 hacked.py
 
 ![Screenshot](hacked.png)
